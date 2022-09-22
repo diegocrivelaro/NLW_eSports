@@ -12,7 +12,7 @@ export default function PostAds() {
         </p>
       </div>
 
-      <button className="flex items-center bg-violet-500 hover:bg-violet-400 transition-all ease-in-out duration-200">
+      <button className="flex items-center bg-violet-500 hover:bg-violet-400 hover:scale-105 transition ease-in-out duration-300">
         <MdAdd className="mr-3 text-xl text-white" />
         <p className="text-base font-medium text-white">Publicar anúncio</p>
       </button>
